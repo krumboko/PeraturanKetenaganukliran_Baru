@@ -121,9 +121,11 @@ const SECTIONS = [
     { f:'Perba 3 Tahun 2024 - Pembatasan Impor dan Ekspor Barang Konsumen, Sumber Radiasi Pengion, dan Bahan Nuklir.pdf',
       t:'Perba BAPETEN No. 3 Tahun 2024 – Pembatasan Impor dan Ekspor Barang Konsumen ZR dan PRP', tag:['industri'] },
     { f:'Perba 4 Tahun 2024 - Izin Bekerja Petugas pada Fasilitas Radiasi dan atau Kegiatan Pemanfaatan Sumber Radiasi Pengion.pdf',
-      t:'Perba BAPETEN No. 4 Tahun 2024 – Izin Pekerja Petugas pada Fasilitas Radiasi', tag:['industri','medik'] },
+      t:'Perba BAPETEN No. 4 Tahun 2024 – Izin Bekerja Petugas pada Fasilitas Radiasi', tag:['industri','medik'] },
   ]},
   { id:'s4d', title:'Peraturan BAPETEN 2023', cat:'perka', items:[
+    { f:'Perba 3 Tahun 2023 - Pelaksanaan Inspeksi dan Laporan Instalasi dan Bahan Nuklir Secara Elektronik.pdf',
+      t:'Perba BAPETEN No. 3 Tahun 2023 – Pelaksanaan Inspeksi dan Laporan Instalasi dan Bahan Nuklir Secara Elektronik', tag:['industri','medik'] },
     { f:'Perba 6 Tahun 2023 - Sistem Manajemen Fasilitas dan Kegiatan Pemanfaatan Tenaga Nuklir.pdf',
       t:'Perba BAPETEN No. 6 Tahun 2023 – Sistem Manajemen Fasilitas dan Kegiatan Pemanfaatan Tenaga Nuklir', tag:['industri','medik'] },
     
@@ -195,6 +197,8 @@ const SECTIONS = [
   ]},
 
   { id:'s4j', title:'Peraturan BAPETEN 2017', cat:'perka', items:[
+    { f:'Perba 1 Tahun 2017 - Pelaksanaan Inspeksi dalam Pengawasan Pemanfaatan Tenaga Nuklir.pdf',
+      t:'Perka BAPETEN No. 1 Tahun 2017 – Pelaksanaan Inspeksi dalam Pengawasan Pemanfaatan Tenaga Nuklir', tag:['industri'] },
     { f:'Perba 2 Tahun 2017 - Larangan dan Batasan Impor Ekspor Barang Konsumen, Sumber Radiasi Pengion dan Bahan Nuklir.pdf',
       t:'Perka BAPETEN No. 2 Tahun 2017 – Larangan dan Pembatasan Impor dan Ekspor Barang Konsumen, SRP, dan Bahan Nuklir', tag:['industri'] },
     { f:'Perba 7 Tahun 2017 - Perubahan Perba 7 Tahun 2013 - Nilai Batas Radioaktivitas Lingkungan.pdf',
@@ -261,9 +265,9 @@ const SECTIONS = [
       t:'Perka BAPETEN No. 6 Tahun 2013 – Izin Bekerja Petugas Instalasi dan Bahan Nuklir',
       lamp:[{l:'Lamp I', f:'Perba 6 Tahun 2013 - Izin Bekerja Petugas Instalasi dan Bahan Nuklir (Lampiran I).pdf'}],
       tag:['instalasi'] },
-    { f:'Perba 7 Tahun 2012 - Nilai Batas Radioktivitas Lingkungan.pdf',
+    { f:'Perba 7 Tahun 2013 - Nilai Batas Radioaktivitas Lingkungan.pdf',
       t:'Perka BAPETEN No. 7 Tahun 2013 – Nilai Batas Radioaktivitas Lingkungan',
-      lamp:[{l:'Lamp I', f:'Perba 7 Tahun 2012 - Nilai Batas Radioktivitas Lingkungan (Lamp I).pdf'},{l:'Lamp II', f:'Perba 7 Tahun 2012 - Nilai Batas Radioktivitas Lingkungan (Lamp II).pdf'},{l:'Lamp III', f:'Perba 7 2013 Nilai Batas Radioaktivitas Lingkungan (Lamp III).pdf'}],
+      lamp:[{l:'Lamp I', f:'Perba 7 Tahun 2013 - Nilai Batas Radioaktivitas Lingkungan (Lamp I).pdf'},{l:'Lamp II', f:'Perba 7 Tahun 2013 - Nilai Batas Radioktivitas Lingkungan (Lamp II).pdf'},{l:'Lamp III', f:'Perba 7 Tahun 2013 - Nilai Batas Radioaktivitas Lingkungan (Lamp III).pdf'}],
       tag:['industri','medik','instalasi'] },
     { f:'Perba 8 Tahun 2013 - Evaluasi Tapak Instalasi Nuklir Aspek Kegempaan.pdf',
       t:'Perka BAPETEN No. 8 Tahun 2013 – Evaluasi Tapak Instalasi Nuklir untuk Aspek Kegempaan', tag:['instalasi'] },

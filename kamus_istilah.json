@@ -53,19 +53,19 @@
     "entries": [
       {
         "sumber": "Perba 15 Tahun 2008 - Persyaratan untuk Memperoleh Surat Izin Bekerja bagi Petugas Tertentum di Instalasi yang Memanfaatkan Sumber Radiasi Pengion.pdf",
-        "definisi": "Orang yang berkompeten melakukan pekerjaan radiografi dengan menggunakan zat radioaktif dan/atau pembangkit radiasi pengion, yang memiliki paling kurang sertifikat keahlian uji tak rusak level ii."
+        "definisi": "Orang yang berkompeten melakukan pekerjaan radiografi dengan menggunakan zat radioaktif dan/atau pembangkit radiasi pengion, yang memiliki paling kurang sertifikat keahlian uji tak rusak level II."
       },
       {
         "sumber": "Perba 16 Tahun 2014 - Surat Izin Bekerja Petugas Tertentu yang Bekerja di Instalasi yang Memanfaatkan Sumber Radiasi Pengion.pdf",
-        "definisi": "Orang yang berkompeten melakukan pekerjaan radiografi dengan menggunakan zat radioaktif dan/atau pembangkit radiasi pengion, yang memiliki paling kurang sertifikat keahlian uji tak rusak tingkat ii."
+        "definisi": "Orang yang berkompeten melakukan pekerjaan radiografi dengan menggunakan zat radioaktif dan/atau pembangkit radiasi pengion, yang memiliki paling kurang sertifikat keahlian uji tak rusak tingkat II."
       },
       {
         "sumber": "Perba 7 Tahun 2009 - Keselamatan Radiasi dalam Penggunaan Peralatan Radiografi Industri.pdf",
-        "definisi": "Orang yang berwenang melakukan pekerjaan radiografi dengan menggunakan zat radioaktif dan/atau pembangkit radiasi pengion, yang memiliki paling kurang sertifikat keahlian uji tak rusak level ii, dan bertanggung jawab kepada pemegang izin."
+        "definisi": "Orang yang berwenang melakukan pekerjaan radiografi dengan menggunakan zat radioaktif dan/atau pembangkit radiasi pengion, yang memiliki paling kurang sertifikat keahlian uji tak rusak level II, dan bertanggung jawab kepada pemegang izin."
       },
       {
         "sumber": "Perba 8 Tahun 2014 - Perubahan Perba 7 Tahun 2009 - Keselamatan Radiasi dalam Penggunaan Peralatan Radiografi Industri.pdf",
-        "definisi": "Orang yang berwenang melakukan pekerjaan radiografi dengan menggunakan zat radioaktif dan/atau pembangkit radiasi pengion, yang memiliki paling kurang sertifikat keahlian uji tak rusak tingkat ii, dan bertanggung jawab kepada pemegang izin."
+        "definisi": "Orang yang berwenang melakukan pekerjaan radiografi dengan menggunakan zat radioaktif dan/atau pembangkit radiasi pengion, yang memiliki paling kurang sertifikat keahlian uji tak rusak tingkat II, dan bertanggung jawab kepada pemegang izin."
       }
     ]
   },
@@ -328,6 +328,15 @@
     ]
   },
   {
+    "istilah": "Aparatur Sipil negara selanjutnya disingkat ASN",
+    "entries": [
+      {
+        "sumber": "Perba 1 Tahun 2017 - Pelaksanaan Inspeksi dalam Pengawasan Pemanfaatan Tenaga Nuklir.pdf",
+        "definisi": "profesi bagi pegawai negeri sipil dan pegawai pemerintah dengan perjanjian kerja yang bekerja pada instansi pemerintah."
+      }
+    ]
+  },
+  {
     "istilah": "Arah Angin",
     "entries": [
       {
@@ -346,6 +355,15 @@
       {
         "sumber": "Perba 5 Tahun 2007 - Ketentuan Keselamatan Evaluasi Tapak Reaktor Nuklir.pdf",
         "definisi": "Area geografi yang berisi reaktor nuklir, yang di dalamnya pihak manajemen reaktor nuklir berwenang melakukan tindakan kedaruratan."
+      }
+    ]
+  },
+  {
+    "istilah": "Asisten Radiografer",
+    "entries": [
+      {
+        "sumber": "Perba 8 Tahun 2014 - Perubahan Perba 7 Tahun 2009 - Keselamatan Radiasi dalam Penggunaan Peralatan Radiografi Industri.pdf",
+        "definisi": "orang yang membantu dan bekerja di bawah pengawasan radiografer tingkat I untuk melakukan persiapan pekerjaan radiografi dengan menggunakan zat radioaktif dan/atau pembangkit radiasi pengion."
       }
     ]
   },
@@ -607,6 +625,10 @@
       {
         "sumber": "Perba 3 Tahun 2013 - Keselamatan Radiasi dalam Penggunaan Radioterapi.pdf",
         "definisi": "Instansi yang bertugas melaksanakan pengawasan melalui peraturan, perizinan, dan inspeksi terhadap segala kegiatan pemanfaatan tenaga nuklir."
+      },
+      {
+        "sumber": "Perba 3 Tahun 2023 - Pelaksanaan Inspeksi dan Laporan Instalasi dan Bahan Nuklir Secara Elektronik.pdf",
+        "definisi": "Lembaga pemerintah nonkementerian yang melaksanakan tugas pemerintahan di bidang pengawasan tenaga nuklir."
       }
     ]
   },
@@ -946,16 +968,16 @@
         "definisi": "Badan yang bertugas melaksanakan pengawasan melalui peraturan, perizinan, dan inspeksi terhadap segala kegiatan pemanfaatan tenaga nuklir."
       },
       {
-        "sumber": "PP Nomor 28 Tahun 2025 - Penyelenggaraan Perizinan Berusaha Berbasis Risiko.pdf",
-        "definisi": "Badan pengusahaan kpbpb sebagaimana diatur dalam peraturan perundang- undangan di bidang kawasan perdagangan bebas dan pelabuhan bebas."
-      },
-      {
         "sumber": "Perba 1 Tahun 2010 - Kesiapsiagaan dan Penanggulangan Kedaruratan Nuklir.pdf",
         "definisi": "Instansi yang bertugas melaksanakan pengawasan melalui peraturan, perizinan, dan inspeksi terhadap segala kegiatan pemanfaatan tenaga nuklir."
       },
       {
         "sumber": "Kepka 03P Tahun 2003 - Persyaratan Laboratorium Uji Bungkusan.pdf",
         "definisi": "Badan pemerintah yang bertugas melaksanakan pengawasan terhadap segala kegiatan pemanfaatan tenaga nuklir."
+      },
+      {
+        "sumber": "Perba 1 Tahun 2017 - Pelaksanaan Inspeksi dalam Pengawasan Pemanfaatan Tenaga Nuklir.pdf",
+        "definisi": "instansi yang bertugas melaksanakan pengawasan melalui peraturan, perizinan, dan inspeksi terhadap segala kegiatan pemanfaatan tenaga nuklir sebagaimana yang dimaksud dalam undang-undang nomor 10 tahun 1997 tentang ketenaganukliran."
       }
     ]
   },
@@ -1333,7 +1355,7 @@
       },
       {
         "sumber": "Perba 5 Tahun 2007 - Ketentuan Keselamatan Evaluasi Tapak Reaktor Nuklir.pdf",
-        "definisi": "Badan pengawas tenaga nuklir. bagian kedua tujuan dan ruang lingkup."
+        "definisi": "Badan pengawas tenaga nuklir."
       }
     ]
   },
@@ -1705,6 +1727,15 @@
     ]
   },
   {
+    "istilah": "Cakupan Inspeksi",
+    "entries": [
+      {
+        "sumber": "Perba 1 Tahun 2017 - Pelaksanaan Inspeksi dalam Pengawasan Pemanfaatan Tenaga Nuklir.pdf",
+        "definisi": "jumlah fasilitas minimal yang harus direncanakan untuk diinspeksi dalam satu tahun berdasarkan resiko."
+      }
+    ]
+  },
+  {
     "istilah": "Catu Daya Darurat",
     "entries": [
       {
@@ -1803,11 +1834,11 @@
     "entries": [
       {
         "sumber": "Perba 1 Tahun 2009 - Ketentuan Sistem Proteksi Fisik Instalasi dan Bahan Nuklir.pdf",
-        "definisi": "Suatu lokasi yang terdapat di dalam daerah proteksi, tempat bahan nuklir golongan i digunakan dan/atau disimpan."
+        "definisi": "Suatu lokasi yang terdapat di dalam daerah proteksi, tempat bahan nuklir golongan I digunakan dan/atau disimpan."
       },
       {
         "sumber": "Perba 1 Tahun 2026 - Sistem Proteksi Fisik Instalasi Nuklir dan Bahan Nuklir.pdf",
-        "definisi": "Lokasi yang terdapat di dalam daerah terproteksi yang terdapat bahan nuklir golongan i dan/atau target sabotase yang memiliki potensi bahaya kategori i."
+        "definisi": "Lokasi yang terdapat di dalam daerah terproteksi yang terdapat bahan nuklir golongan I dan/atau target sabotase yang memiliki potensi bahaya kategori i."
       }
     ]
   },
@@ -1926,7 +1957,7 @@
     "entries": [
       {
         "sumber": "Perba 1 Tahun 2026 - Sistem Proteksi Fisik Instalasi Nuklir dan Bahan Nuklir.pdf",
-        "definisi": "Lokasi di dalam daerah akses terbatas yang terdapat bahan nuklir golongan ii dan/atau target sabotase yang memiliki potensi bahaya kategori ii."
+        "definisi": "Lokasi di dalam daerah akses terbatas yang terdapat bahan nuklir golongan II dan/atau target sabotase yang memiliki potensi bahaya kategori II."
       }
     ]
   },
@@ -2860,6 +2891,15 @@
     ]
   },
   {
+    "istilah": "Formulir Isian Hasil Inspeksi",
+    "entries": [
+      {
+        "sumber": "Perba 1 Tahun 2017 - Pelaksanaan Inspeksi dalam Pengawasan Pemanfaatan Tenaga Nuklir.pdf",
+        "definisi": "formulir sebagai instrumen para inspektur dalam memeriksa pemenuhan persyaratan keselamatan dan keamanan."
+      }
+    ]
+  },
+  {
     "istilah": "Freatik (Phreatic)",
     "entries": [
       {
@@ -2874,6 +2914,15 @@
       {
         "sumber": "Perba 2 Tahun 2008 - Evaluasi Tapak Reaktor Daya Aspek Kegunungapian.pdf",
         "definisi": "Aktivitas letusan yang menghasilkan gas dari magma dan uap, bersamaan dengan bahan rombakan/fragmen padat yang terdiri dari gelas vulkanik baru dan kepingan batuan yang lebih tua, disebabkan oleh kontak antara magma dan air."
+      }
+    ]
+  },
+  {
+    "istilah": "Frekuensi Inspeksi",
+    "entries": [
+      {
+        "sumber": "Perba 1 Tahun 2017 - Pelaksanaan Inspeksi dalam Pengawasan Pemanfaatan Tenaga Nuklir.pdf",
+        "definisi": "kekerapan pelaksanaan inspeksi terhadap fasilitas sesuai dengan tingkat risiko (graded approach) berdasarkan kelompok kegiatan."
       }
     ]
   },
@@ -3169,6 +3218,10 @@
       {
         "sumber": "Perba 12 Tahun 2012 - Pemberlakuan Sistem Elektronik dalam Kerangka Indonesia Single Window pada Badan Pengawas Tenaga Nuklir.pdf",
         "definisi": "Hak yang diberikan untuk melakukan interaksi dengan sistem elektronik yang berdiri sendiri atau dengan jaringan."
+      },
+      {
+        "sumber": "Perba 3 Tahun 2023 - Pelaksanaan Inspeksi dan Laporan Instalasi dan Bahan Nuklir Secara Elektronik.pdf",
+        "definisi": "Hak yang diberikan untuk melakukan interaksi dengan sistem elektronik yang berdiri sendiri atau dengan jaringan melalui akun."
       }
     ]
   },
@@ -3359,6 +3412,15 @@
     ]
   },
   {
+    "istilah": "Indikator Keselamatan dan keamanan",
+    "entries": [
+      {
+        "sumber": "Perba 1 Tahun 2017 - Pelaksanaan Inspeksi dalam Pengawasan Pemanfaatan Tenaga Nuklir.pdf",
+        "definisi": "indikator pemenuhan persyaratan keselamatan dan keamanan pada tiap jenis kegiatan."
+      }
+    ]
+  },
+  {
     "istilah": "Indonesia National Single Window",
     "entries": [
       {
@@ -3393,6 +3455,36 @@
       {
         "sumber": "Perba 5 Tahun 2011 - Ketentuan Perawatan Reaktor Non Daya.pdf",
         "definisi": "Pemeriksaan, pengamatan, pengukuran atau pengujian yang dilakukan untuk menilai struktur, sistem dan komponen, kegiatan operasi, proses teknis, proses di dalam organisasi, prosedur dan kompetensi personil."
+      },
+      {
+        "sumber": "Perba 1 Tahun 2017 - Pelaksanaan Inspeksi dalam Pengawasan Pemanfaatan Tenaga Nuklir.pdf",
+        "definisi": "salah satu unsur pengawasan pemanfaatan tenaga nuklir yang dilaksanakan oleh inspektur keselamatan nuklir untuk memastikan ditaatinya syarat-syarat dalam perizinan dan peraturan ketenaganukliran."
+      },
+      {
+        "sumber": "Perba 1 Tahun 2017 - Pelaksanaan Inspeksi dalam Pengawasan Pemanfaatan Tenaga Nuklir.pdf",
+        "definisi": "Sewaktu-waktu adalah inspeksi yang dilaksanakan di luar jadwal yang direncanakan."
+      },
+      {
+        "sumber": "Perba 3 Tahun 2023 - Pelaksanaan Inspeksi dan Laporan Instalasi dan Bahan Nuklir Secara Elektronik.pdf",
+        "definisi": "salah satu unsur pengawasan pemanfaatan tenaga nuklir yang dilaksanakan oleh inspektur keselamatan nuklir untuk memastikan ditaatinya syarat-syarat dalam perizinan dan peraturan ketenaganukliran."
+      }
+    ]
+  },
+  {
+    "istilah": "Inspeksi Berkala",
+    "entries": [
+      {
+        "sumber": "Perba 1 Tahun 2017 - Pelaksanaan Inspeksi dalam Pengawasan Pemanfaatan Tenaga Nuklir.pdf",
+        "definisi": "inspeksi yang direncanakan oleh unit kerja inspeksi."
+      }
+    ]
+  },
+  {
+    "istilah": "Inspeksi dengan Pemberitahuan",
+    "entries": [
+      {
+        "sumber": "Perba 1 Tahun 2017 - Pelaksanaan Inspeksi dalam Pengawasan Pemanfaatan Tenaga Nuklir.pdf",
+        "definisi": "inspeksi yang dilakukan dengan memberitahukan terlebih dahulu paling kurang 2 (dua) minggu sebelum pelaksanaan inspeksi."
       }
     ]
   },
@@ -3442,6 +3534,15 @@
     ]
   },
   {
+    "istilah": "Inspeksi Sewaktu-Waktu",
+    "entries": [
+      {
+        "sumber": "Perba 1 Tahun 2017 - Pelaksanaan Inspeksi dalam Pengawasan Pemanfaatan Tenaga Nuklir.pdf",
+        "definisi": "Inspeksi yang dilaksanakan di luar jadwal yang direncanakan."
+      }
+    ]
+  },
+  {
     "istilah": "Inspeksi SSK",
     "entries": [
       {
@@ -3464,6 +3565,19 @@
       {
         "sumber": "Perba 5 Tahun 2025 - Standar Kegiatan Usaha danatau Standar Produk Jasa pada Penyelenggaraan Perizinan Berusaha Berbasis Risiko Sektor Ketenaganukliran.pdf",
         "definisi": "Pegawai badan yang diberi kewenangan oleh kepala badan untuk melaksanakan inspeksi."
+      }
+    ]
+  },
+  {
+    "istilah": "Inspektur Keselamatan Nuklir (Inspektur)",
+    "entries": [
+      {
+        "sumber": "Perba 1 Tahun 2017 - Pelaksanaan Inspeksi dalam Pengawasan Pemanfaatan Tenaga Nuklir.pdf",
+        "definisi": "PNS yang diberi kewenangan oleh kepala bapeten untuk melaksanakan inspeksi."
+      },
+      {
+        "sumber": "Perba 3 Tahun 2023 - Pelaksanaan Inspeksi dan Laporan Instalasi dan Bahan Nuklir Secara Elektronik.pdf",
+        "definisi": "PNS yang diberi kewenangan oleh kepala bapeten untuk melaksanakan inspeksi."
       }
     ]
   },
@@ -3558,6 +3672,10 @@
       {
         "sumber": "Perka 5 Tahun 2015 - Evaluasi Tapak Instalasi Nuklir untuk Aspek Kegunungapian.pdf",
         "definisi": ": a. reaktor nuklir; b. fasilitas yang digunakan untuk pemurnian, konversi, pengayaan bahan nuklir, fabrikasi bahan bakar nuklir, dan/atau pengolahan ulang bahan nuklir bekas; dan/atau c. fasilitas yang digunakan untuk menyimpan bahan bakar nuklir dan bahan nuklir bekas."
+      },
+      {
+        "sumber": "Perba 3 Tahun 2023 - Pelaksanaan Inspeksi dan Laporan Instalasi dan Bahan Nuklir Secara Elektronik.pdf",
+        "definisi": "a. reaktor nuklir; b. fasilitas yang digunakan untuk pemurnian, konversi, pengayaan bahan nuklir, fabrikasi bahan bakar nuklir dan/atau pengolahan ulang bahan bakar nuklir bekas; dan/atau c. fasilitas yang digunakan untuk menyimpan bahan bakar nuklir dan bahan bakar nuklir bekas."
       }
     ]
   },
@@ -3629,6 +3747,10 @@
       {
         "sumber": "Perba 7 Tahun 2019 - Izin Bekerja Petugas Instalasi Nuklir dan Bahan Nuklir.pdf",
         "definisi": "Fasilitas yang digunakan untuk pemurnian, konversi, pengayaan bahan nuklir, fabrikasi bahan bakar nuklir dan/atau pengolahan ulang bahan bakar nuklir bekas; dan/atau fasilitas yang digunakan untuk menyimpan bahan bakar nuklir dan bahan bakar nuklir bekas."
+      },
+      {
+        "sumber": "Perba 3 Tahun 2023 - Pelaksanaan Inspeksi dan Laporan Instalasi dan Bahan Nuklir Secara Elektronik.pdf",
+        "definisi": "a. fasilitas yang digunakan untuk pemurnian, konversi, pengayaan bahan nuklir, fabrikasi bahan bakar nuklir dan/atau pengolahan ulang bahan bakar nuklir bekas; dan/atau b. fasilitas yang digunakan untuk menyimpan bahan bakar nuklir dan bahan bakar nuklir bekas."
       }
     ]
   },
@@ -3842,7 +3964,7 @@
     ]
   },
   {
-    "istilah": "Iradiator Kategori IIII Dengan Sumber Radioaktif",
+    "istilah": "Iradiator Kategori III Dengan Sumber Radioaktif",
     "entries": [
       {
         "sumber": "Perba 3 Tahun 2020 - Keselamatan Radiasi Dalam Penggunaan Iradiator untuk Iradiasi.pdf",
@@ -4143,6 +4265,33 @@
       {
         "sumber": "Perba 3 Tahun 2010 - Desain Sistem Penanganan Bahan Bakar Nuklir Reaktor Daya.pdf",
         "definisi": "Wadah berperisai yang digunakan untuk menyimpan… menyimpan dan/atau mengirim bahan bakar nuklir teriradiasi."
+      }
+    ]
+  },
+  {
+    "istilah": "Kategori I",
+    "entries": [
+      {
+        "sumber": "Perba 1 Tahun 2017 - Pelaksanaan Inspeksi dalam Pengawasan Pemanfaatan Tenaga Nuklir.pdf",
+        "definisi": "temuan hasil inspeksi atau pelanggaran peraturan perundang-undangan keteganaganukliran yang berkonsekuensi pengenaan sanksi pidana."
+      }
+    ]
+  },
+  {
+    "istilah": "Kategori II",
+    "entries": [
+      {
+        "sumber": "Perba 1 Tahun 2017 - Pelaksanaan Inspeksi dalam Pengawasan Pemanfaatan Tenaga Nuklir.pdf",
+        "definisi": "temuan hasil inspeksi atau pelanggaran peraturan perundang-undangan keteganaganukliran yang berkonsekuensi pengenaan sanksi administrasi berupa penghentian sementara atau pembekuan izin hingga pencabutan izin."
+      }
+    ]
+  },
+  {
+    "istilah": "Kategori III",
+    "entries": [
+      {
+        "sumber": "Perba 1 Tahun 2017 - Pelaksanaan Inspeksi dalam Pengawasan Pemanfaatan Tenaga Nuklir.pdf",
+        "definisi": "temuan hasil inspeksi atau pelanggaran peraturan perundang-undangan keteganaganukliran yang berkonsekuensi pengenaan sanksi administrasi berupa peringatan tertulis hingga pencabutan izin."
       }
     ]
   },
@@ -5891,6 +6040,24 @@
     ]
   },
   {
+    "istilah": "Laporan Hasil Inspeksi",
+    "entries": [
+      {
+        "sumber": "Perba 1 Tahun 2017 - Pelaksanaan Inspeksi dalam Pengawasan Pemanfaatan Tenaga Nuklir.pdf",
+        "definisi": "laporan yang menggambarkan data dan fakta terkait pemenuhan persyaratan keselamatan dan keamanan yang ditemukan pada fasilitas yang diinspeksi."
+      }
+    ]
+  },
+  {
+    "istilah": "Laporan Keselamatan Fasilitas",
+    "entries": [
+      {
+        "sumber": "Perba 1 Tahun 2017 - Pelaksanaan Inspeksi dalam Pengawasan Pemanfaatan Tenaga Nuklir.pdf",
+        "definisi": "laporan yang dibuat oleh fasilitas sebagai hasil penilaian mandiri (self assessment) internal fasilitas sesuai dengan jenis kegiatan."
+      }
+    ]
+  },
+  {
     "istilah": "Lava",
     "entries": [
       {
@@ -7027,19 +7194,19 @@
     "entries": [
       {
         "sumber": "Perba 15 Tahun 2008 - Persyaratan untuk Memperoleh Surat Izin Bekerja bagi Petugas Tertentum di Instalasi yang Memanfaatkan Sumber Radiasi Pengion.pdf",
-        "definisi": "Orang yang berkompeten melakukan pekerjaan radiografi dengan menggunakan zat radioaktif dan/atau pembangkit radiasi pengion, yang memiliki sertifikat keahlian paling kurang sertifikat keahlian uji tak rusak level i, dan bekerja di bawah pengawasan ahli radiografi."
+        "definisi": "Orang yang berkompeten melakukan pekerjaan radiografi dengan menggunakan zat radioaktif dan/atau pembangkit radiasi pengion, yang memiliki sertifikat keahlian paling kurang sertifikat keahlian uji tak rusak level I, dan bekerja di bawah pengawasan ahli radiografi."
       },
       {
         "sumber": "Perba 16 Tahun 2014 - Surat Izin Bekerja Petugas Tertentu yang Bekerja di Instalasi yang Memanfaatkan Sumber Radiasi Pengion.pdf",
-        "definisi": "Orang yang berkompeten melakukan pekerjaan radiografi dengan menggunakan zat radioaktif dan/atau pembangkit radiasi pengion, yang memiliki paling kurang sertifikat keahlian uji tak rusak tingkat i, dan bekerja di bawah pengawasan radiografer tingkat ii."
+        "definisi": "Orang yang berkompeten melakukan pekerjaan radiografi dengan menggunakan zat radioaktif dan/atau pembangkit radiasi pengion, yang memiliki paling kurang sertifikat keahlian uji tak rusak tingkat I, dan bekerja di bawah pengawasan radiografer tingkat II."
       },
       {
         "sumber": "Perba 7 Tahun 2009 - Keselamatan Radiasi dalam Penggunaan Peralatan Radiografi Industri.pdf",
-        "definisi": "Orang yang berwenang melakukan pekerjaan radiografi dengan menggunakan zat radioaktif dan/atau pembangkit radiasi pengion, yang memiliki sertifikat keahlian paling kurang uji tak rusak level i, dan bekerja di bawah pengawasan ar."
+        "definisi": "Orang yang berwenang melakukan pekerjaan radiografi dengan menggunakan zat radioaktif dan/atau pembangkit radiasi pengion, yang memiliki sertifikat keahlian paling kurang uji tak rusak level I, dan bekerja di bawah pengawasan AR."
       },
       {
         "sumber": "Perba 8 Tahun 2014 - Perubahan Perba 7 Tahun 2009 - Keselamatan Radiasi dalam Penggunaan Peralatan Radiografi Industri.pdf",
-        "definisi": "Orang yang berwenang melakukan persiapan pekerjaan radiografi dengan menggunakan zat radioaktif dan/atau pembangkit radiasi pengion, yang memiliki sertifikat keahlian paling kurang uji tak rusak tingkat i, dan bekerja di bawah pengawasan radiografer tingkat ii. 12a. asisten radiografer adalah orang yang membantu dan bekerja di bawah pengawasan radiografer tingkat i untuk melakukan persiapan pekerjaan radiografi dengan menggunakan zat radioaktif dan/atau pembangkit radiasi pengion."
+        "definisi": "Orang yang berwenang melakukan persiapan pekerjaan radiografi dengan menggunakan zat radioaktif dan/atau pembangkit radiasi pengion, yang memiliki sertifikat keahlian paling kurang uji tak rusak tingkat I, dan bekerja di bawah pengawasan radiografer tingkat II."
       }
     ]
   },
@@ -7401,6 +7568,24 @@
       {
         "sumber": "Perba 1 Tahun 2009 - Ketentuan Sistem Proteksi Fisik Instalasi dan Bahan Nuklir.pdf",
         "definisi": "Kegiatan yang dilakukan oleh penjaga yang diberi tugas memeriksa elemen proteksi fisik, antara lain penghalang fisik dan alat deteksi penyusupan, secara berkala atau sewaktu- waktu sehingga elemen tersebut dapat diamati dalam jangka waktu tertentu."
+      }
+    ]
+  },
+  {
+    "istilah": "Pegawai Negeri Sipil (PNS)",
+    "entries": [
+      {
+        "sumber": "Perba 1 Tahun 2017 - Pelaksanaan Inspeksi dalam Pengawasan Pemanfaatan Tenaga Nuklir.pdf",
+        "definisi": "warga negara indonesia yang memenuhi syarat tertentu, diangkat sebagai pegawai asn secara tetap oleh pejabat pembina kepegawaian untuk menduduki jabatan pemerintahan."
+      }
+    ]
+  },
+  {
+    "istilah": "Pejabat Otorisator",
+    "entries": [
+      {
+        "sumber": "Perba 3 Tahun 2023 - Pelaksanaan Inspeksi dan Laporan Instalasi dan Bahan Nuklir Secara Elektronik.pdf",
+        "definisi": "pimpinan tinggi pratama pada unit kerja yang menyelenggarakan urusan inspeksi instalasi nuklir dan bahan nuklir."
       }
     ]
   },
@@ -7835,6 +8020,15 @@
       {
         "sumber": "Perba 7 Tahun 2020 - Keselamatan Pengangkutan Zat Radioaktif.pdf",
         "definisi": "Pembungkus yang digunakan oleh 1 (satu) pengirim untuk memuat 1 (satu) atau beberapa bungkusan dan membentuk 1 (satu) unit sehingga memudahkan dalam penanganan dan penyimpanan selama pengangkutan zat radioaktif."
+      }
+    ]
+  },
+  {
+    "istilah": "Pemegang",
+    "entries": [
+      {
+        "sumber": "Perba 3 Tahun 2023 - Pelaksanaan Inspeksi dan Laporan Instalasi dan Bahan Nuklir Secara Elektronik.pdf",
+        "definisi": "Izin adalah badan usaha yang memiliki perizinan usaha sektor ketenaganukliran arau badan hukum publik yang memiliki izin dari badan pengawas tenaga nuklir."
       }
     ]
   },
@@ -8502,6 +8696,15 @@
     ]
   },
   {
+    "istilah": "Penegakan Hukum",
+    "entries": [
+      {
+        "sumber": "Perba 1 Tahun 2017 - Pelaksanaan Inspeksi dalam Pengawasan Pemanfaatan Tenaga Nuklir.pdf",
+        "definisi": "proses memberian sanksi administrasi dan/atau pidana kepada para pengguna yang melakukan pelanggaran ketentuan peraturan perundang-undangan."
+      }
+    ]
+  },
+  {
     "istilah": "Penelitian Medik Klinik",
     "entries": [
       {
@@ -8800,6 +9003,15 @@
     ]
   },
   {
+    "istilah": "Pengguna",
+    "entries": [
+      {
+        "sumber": "Perba 3 Tahun 2023 - Pelaksanaan Inspeksi dan Laporan Instalasi dan Bahan Nuklir Secara Elektronik.pdf",
+        "definisi": "Orang yang telah memperoleh otorisasi dari penyelenggara."
+      }
+    ]
+  },
+  {
     "istilah": "Penggunaan",
     "entries": [
       {
@@ -8878,6 +9090,15 @@
       {
         "sumber": "Perba 9 Tahun 2009 - Intervensi Paparan Tenorm.pdf",
         "definisi": "Orang atau badan yang karena kegiatannya di bidang energi dan sumber daya minera."
+      }
+    ]
+  },
+  {
+    "istilah": "Penghentian Operasi",
+    "entries": [
+      {
+        "sumber": "Perba 1 Tahun 2017 - Pelaksanaan Inspeksi dalam Pengawasan Pemanfaatan Tenaga Nuklir.pdf",
+        "definisi": "tindakan penghentian operasi yang dilakukan oleh inspektur kepada fasilitas yang terbukti melakukan pelanggaran kategori II dalam bentuk surat penghentian operasi."
       }
     ]
   },
@@ -9308,11 +9529,24 @@
     ]
   },
   {
-    "istilah": "Penyegaran",
+    "istilah": "Penyegaran Inspektur",
     "entries": [
       {
         "sumber": "Perba 15 Tahun 2008 - Persyaratan untuk Memperoleh Surat Izin Bekerja bagi Petugas Tertentum di Instalasi yang Memanfaatkan Sumber Radiasi Pengion.pdf",
         "definisi": "Kegiatan untuk mempertahankan kompetensi yang dimiliki petugas proteksi radiasi."
+      },
+      {
+        "sumber": "Perba 1 Tahun 2017 - Pelaksanaan Inspeksi dalam Pengawasan Pemanfaatan Tenaga Nuklir.pdf",
+        "definisi": "Kegiatan pelatihan atau workshop dalam rangka mempertahankan dan meningkatkan kompetensi inspektur."
+      }
+    ]
+  },
+  {
+    "istilah": "Penyelenggara Sistem manajemen inspeksi dan laporan elektronik (penyelenggara)",
+    "entries": [
+      {
+        "sumber": "Perba 3 Tahun 2023 - Pelaksanaan Inspeksi dan Laporan Instalasi dan Bahan Nuklir Secara Elektronik.pdf",
+        "definisi": "unit kerja yang menyelenggarakan urusan inspeksi instalasi nuklir dan bahan nuklir."
       }
     ]
   },
@@ -10530,7 +10764,16 @@
     "entries": [
       {
         "sumber": "Perba 2 Tahun 2008 - Evaluasi Tapak Reaktor Daya Aspek Kegunungapian.pdf",
-        "definisi": "Suatu kata sifat yang menunjukkan produk dalam bentuk kepingan / fragmen dari letusan eksplosif, biasanya bersuhu tinggi."
+        "definisi": "Suatu kata sifat yang menunjukkan produk dalam bentuk kepingan/fragmen dari letusan eksplosif, biasanya bersuhu tinggi."
+      }
+    ]
+  },
+  {
+    "istilah": "PNS Bapeten",
+    "entries": [
+      {
+        "sumber": "Perba 1 Tahun 2017 - Pelaksanaan Inspeksi dalam Pengawasan Pemanfaatan Tenaga Nuklir.pdf",
+        "definisi": "PNS yang diangkat oleh pejabat pembina kepegawaian bapeten dan diserahi tugas dalam suatu jabatan pemerintahan di lingkungan Bapeten berdasrkan peraturan perundang-undangan."
       }
     ]
   },
@@ -10539,7 +10782,7 @@
     "entries": [
       {
         "sumber": "Perba 17 Tahun 2012 - Keselamatan Radiasi Kedokteran Nuklir.pdf",
-        "definisi": "Teknik rekonstruksi citra tomografi menggunakan aplikasi komputer dari distribusi senyawa berlabel pemancar positron dalam tubuh pasien ."
+        "definisi": "Teknik rekonstruksi citra tomografi menggunakan aplikasi komputer dari distribusi senyawa berlabel pemancar positron dalam tubuh pasien."
       }
     ]
   },
@@ -11925,6 +12168,15 @@
     ]
   },
   {
+    "istilah": "Sistem Manajemen inspeksi dan laporan elektronik (Balis Smile)",
+    "entries": [
+      {
+        "sumber": "Perba 3 Tahun 2023 - Pelaksanaan Inspeksi dan Laporan Instalasi dan Bahan Nuklir Secara Elektronik.pdf",
+        "definisi": "pelayanan inspeksi dan pelaporan secara elektronik."
+      }
+    ]
+  },
+  {
     "istilah": "Sistem Bantu Keselamatan",
     "entries": [
       {
@@ -12596,6 +12848,24 @@
     ]
   },
   {
+    "istilah": "Surat Larangan",
+    "entries": [
+      {
+        "sumber": "Perba 1 Tahun 2017 - Pelaksanaan Inspeksi dalam Pengawasan Pemanfaatan Tenaga Nuklir.pdf",
+        "definisi": "surat yang berisi larangan operasi dan penggunaaan yang diberikan oleh inspektur kepada fasilitas yang terbukti melakukan pelanggaran kategori i."
+      }
+    ]
+  },
+  {
+    "istilah": "Surat Perintah inspeksi",
+    "entries": [
+      {
+        "sumber": "Perba 1 Tahun 2017 - Pelaksanaan Inspeksi dalam Pengawasan Pemanfaatan Tenaga Nuklir.pdf",
+        "definisi": "surat tugas yang diterbitkan oleh kepala unit kerja inspeksi atas nama kepala bapeten kepada tim inspeksi untuk melaksanakan inspeksi."
+      }
+    ]
+  },
+  {
     "istilah": "Surat Pernyataan Kesanggupan Pengelolaan Dan Pemantauan Lingkungan Hidup atau SPPL",
     "entries": [
       {
@@ -13029,6 +13299,15 @@
       {
         "sumber": "Perba 3 Tahun 2022 - Keselamatan Desain Teras Reaktor Daya.pdf",
         "definisi": "Bagian dari reaktor daya tempat terjadinya reaksi nuklir berantai yang terkendali."
+      }
+    ]
+  },
+  {
+    "istilah": "Tim Gelar Perkara",
+    "entries": [
+      {
+        "sumber": "Perba 1 Tahun 2017 - Pelaksanaan Inspeksi dalam Pengawasan Pemanfaatan Tenaga Nuklir.pdf",
+        "definisi": "Tim yang ditunjuk oleh Kepala Bapeten dengan tugas memberikan rekomendasi hukum dan teknis terkait tindakan pelanggaran Kategori I."
       }
     ]
   },
